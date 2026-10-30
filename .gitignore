@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+
+# FreeMove runtime artifacts
+*.fmimg
+.freemove-partial/
+freemove-report-*.json
+*.freemove-backup/
+
+# Test / tooling noise
+.pytest_cache/
+*.log
