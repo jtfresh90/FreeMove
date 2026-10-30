@@ -8,5 +8,5 @@ image file, or between disks on the same machine.
 No accounts, no cloud, no telemetry, no size limits.
 """
 
-__version__ = "1.0.0"
+__version__ = "0.2.0"
 __all__ = ["__version__"]
